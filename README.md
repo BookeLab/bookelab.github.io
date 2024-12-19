@@ -38,7 +38,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ## Contact
 
-If you have any questions or want to get in touch, please visit our website at [https://booke.co].
+If you have any questions or want to get in touch, please visit our [website](https://booke.co).
 
 ---
-*Last Updated: [Date]*
+*Last Updated: 12/19/2024*
